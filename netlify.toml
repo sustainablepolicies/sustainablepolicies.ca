@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo --gc -s  --minify --baseURL $URL"
+command = "hugo --gc  --minify --baseURL http://sustainablepolicies.ca/ "
 
 [build.environment]
 HUGO_VERSION = "0.110.0"
