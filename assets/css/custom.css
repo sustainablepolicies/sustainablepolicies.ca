@@ -1,0 +1,11 @@
+p {
+    text-align: justify;
+}
+
+.max-w-7xl {
+    max-width: 160ch;
+}
+
+.max-w-prose {
+    max-width: 90ch;
+}

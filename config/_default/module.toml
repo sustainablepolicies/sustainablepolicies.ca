@@ -1,0 +1,6 @@
+[[imports]]
+path = "github.com/canstand/compost"
+
+[hugoVersion]
+  extended = false
+  min = "0.110.0"
