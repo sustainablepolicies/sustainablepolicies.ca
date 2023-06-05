@@ -1,6 +1,6 @@
 # -- Site Configuration --
 
-# baseURL = "http://sustainablepolicies.ca/"
+# baseURL = "http://www.sustainablepolicies.ca/"
 title = "Sustainable Policy Institute"
 
 languageCode = "en"
